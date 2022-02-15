@@ -1,0 +1,99 @@
+ul{
+    display:flex;
+  list-style: none;
+  justify-content:center ;
+}
+ul li a{
+    color:rgb(235, 243, 236);
+    text-decoration: none;
+    padding: 1em;
+    font-weight:bolder ;
+    text-transform: uppercase;
+    font-family:Arial, Helvetica, sans-serif;
+    letter-spacing:1px;
+    font-size: 70px;
+    
+   
+}
+body{
+    background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsZ4lMU9XV676QJHNuBh6-g-Jd0j8Xm64Z9g&usqp=CAU)no-repeat;
+    background-size:cover;
+
+}
+ul li a:hover{
+    border-bottom:1px solid white;
+}
+h2{
+    text-align: center;
+    margin-top: 200px;
+    font-size:200px;
+
+}
+.heder{
+    height: 100vh;
+}
+.main{
+    height: 100vh;
+    background-color: yellow;
+}
+h1{
+    text-align: center;
+    padding-top: 1em;
+    font-size: 300%;
+    font-family: fantasy;
+}
+h2{
+    margin-top: 300px;
+}
+h3{
+    font-size: 00%;
+}
+.middle{
+    height:100vh;
+}
+h4{
+    text-align: center;
+    padding-top: 1em;
+    font-size: 1000%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h5{
+    font-size: 1000%;
+}
+.footer{
+    height:100vh;
+    background-color: chocolate;
+    display: flex;  
+    flex-wrap: wrap;
+
+   
+  
+}
+h6{
+    font-size: 1000%;
+    margin-top: 0px;
+    justify-content: center;
+}
+p1{
+    font-size: 500%;
+    margin-top: 10px;
+}
+h7{
+    font-size: 1000%;
+}
+p2{
+    
+    font-size: 500%;
+}
+h8{
+    font-size: 1000%;
+}
+p3{
+    font-size: 500%;
+}
+h1{
+    font-size: 1000%;
+}
+.iframe{
+    width: 500px;
+}
